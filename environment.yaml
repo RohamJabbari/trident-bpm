@@ -30,7 +30,7 @@ dependencies:
     - seqeval
     - ruff-lsp
     # path to trident
-    - -e ../trident/
+    - -e .content/trident-bpm/
     - bitsandbytes
     - deepspeed
     - peft
